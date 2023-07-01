@@ -111,6 +111,6 @@ You can contact me on discord at `@slokx`, please do if you find any bugs with t
 
 I would like to thank everyone that helped me in the Project Korra [development support](https://discord.com/channels/292809844803502080/612873490709741577) in the making of this pack, but more specifically, I would like to thank `@Aztl` and `@DreamerBoy` to help me make it. Without their help I wouldn't have made half of these moves.. <3 ty baes, and also thanks to `@MrHobo` for proving some of these moves canonicity with proof <3, As well as ProjectKorra's code.
 
-Only EMPGrenade is not canon, the other *6* are canon and I will gladly debate so.
+Only EMPGrenade is not canon, the other *6* are canon and I will gladly debate so. (EMPGrenade was made as a joke, half of the code is Smokescreen by ProjectKorra...)
 
 I also want to say, I do not expect to win, I am very new to the Spigot API, ProjectKorra and well, Java coding. I entered this to gain experience, and, experience is what I got it. Half of these moves are probably my most advanced move ever lol.. The Hackathon isn't about winning either, it's about providing moves for the community, and I did just that :)
