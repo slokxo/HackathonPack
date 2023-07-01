@@ -1,0 +1,18 @@
+name: HackathonPack
+version: ${project.version}
+main: me.slokxoxo.hackathon.HackathonPack
+depend: [ProjectKorra]
+softdepend:
+  - GSit
+description: Addon pack for Hackathon2023
+api-version: 1.16
+permissions:
+  hackathon.player:
+    default: true
+    children:
+      bending.ability.icegrip: true
+      bending.ability.icediscs: true
+      bending.ability.metalrun: true
+      bending.ability.sandslash: true
+      bending.ability.empgrenade: true
+      bending.ability.grapplinghook: true
