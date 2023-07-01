@@ -11,9 +11,6 @@ This is my plugin pack with all my submissions for the [ProjectKorra](https://gi
 There are four sub elements, one of which is a custom sub element for Chi, called Techno. The other three are *Ice*, sub element of Water, *Sand*, sub element of Earth and *Metal*, sub element of Earth. I felt sand did not have a lot of representation throughout core, and well all addon ability making as there was __no__ core sand moves and very little addon moves. Techno is based off Book 1 Legend of Korra equalist chi-blocking with the high tech gadgets. 
 
 ## Abilities
-### Sand
-* QuickSand
-  * QuickSand is an ability we see throughout the show, mostly by Bumi in his fight with Aang in the Omashu undergrounds.
 * SandSlash
   * SandSlash is a standard combo used by sandenders (probably).. While we do not see it in the show, it is a very simple ability and if sandbenders can not do it.. well they're dumb! Just kidding, but it is very realistic and I think that they could do it.
 ### Ice
@@ -34,15 +31,6 @@ There are four sub elements, one of which is a custom sub element for Chi, calle
  I made this addon pack very configurable, in the subsequent message is the meaning behind all the values, what not to do, and the limitations.
 
 ## Sand
-### Quicksand
-* *Enabled* -> If the move is enabled or disabled.
-* *Cooldown*  -> The delay in which you must wait before using the move again.
-* *Range*  -> The range of the projection along the floor, if it exceeds its range or goes off a sand block, it will disperse.
-* *Duration*  -> The duration in which the target will stay sinking.
-* *Project Hitbox*  -> The hitbox that the projection will have. A high projection hitbox is not recommended.
-* *Damage*  -> Damage that an entity will take in the quicksand (this is only enabled if the value `doDamage` is enabled.
-* *Do Damage*  -> A true or false statement that decides whether the move does damage or not.
-
 ### SandSlash
 * *Enabled* -> If the move is enabled or disabled.
 * *Range* -> The range of the slash in the air, if it exceeds its range, it will disperse.
